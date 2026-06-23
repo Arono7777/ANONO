@@ -1,0 +1,6 @@
+{
+  "name": "ANONO",
+  "description": "ANONO - A premium Bangladeshi E-commerce Web Application with Product and Category views, checkout ordering, order tracking, and a powerful Admin Control Panel for Managing Products, Users, and Orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
